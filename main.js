@@ -228,4 +228,5 @@ prev.addEventListener('click', () => {
 	getProducts();
 });
 
-console.log("Some changes.");
+// console.log("Some changes.");
+console.log("New branch.");
